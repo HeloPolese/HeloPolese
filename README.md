@@ -4,7 +4,7 @@
 - 🌎   Fluente em inglês
 
 
-<img src="https://i.pinimg.com/originals/8c/95/21/8c9521746795354b88ea0c71d3d65da8.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/8c/95/21/8c9521746795354b88ea0c71d3d65da8.gif" width="280"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
