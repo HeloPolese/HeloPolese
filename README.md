@@ -3,7 +3,6 @@
 - 🤓 Estudante de Sistemas de Informação para Internet - Instituto Federal
 - 🌎   Fluente em inglês
 
-
 <img src="https://i.pinimg.com/originals/8c/95/21/8c9521746795354b88ea0c71d3d65da8.gif" width="280"/>
   
 <div style="display: inline_block"><br>
@@ -14,11 +13,8 @@
   <img align="center" alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
   ##
 
-
-  
 <div> 
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heloisa-polese-594458358/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
