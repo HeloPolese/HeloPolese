@@ -1,8 +1,14 @@
-## Heloisa Colatto Polese
-- Sistemas de Informação para Internet - Instituto Federal  
-- Foco em BackEnd  
-- Fluente em inglês  
-
+## Heloisa Polese
+Me chamo Heloisa Colatto Polese, sou natural do Espírito Santo e estudante de Sistemas de Informação para Internet no Instituto Federal de Santa Teresa. Tenho foco em desenvolvimento back-end e sou fluente em inglês. Estou em constante evolução, desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e boas práticas de desenvolvimento.
+ 
+<p align="center">
+  <a href="https://www.instagram.com/heloisaa.cp/?hl=en">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/heloisa-polese-594458358/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 ##
 
 <p align="center">
@@ -17,11 +23,3 @@
 
 ##
 
-<p align="center">
-  <a href="https://www.instagram.com/heloisaa.cp/?hl=en">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/heloisa-polese-594458358/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
