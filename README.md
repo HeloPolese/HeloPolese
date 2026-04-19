@@ -14,27 +14,28 @@
 </p>
 
 <p align="center">
-  <img alt="JS" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img alt="JS" height="30" width="30"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
 
-  <img alt="TypeScript" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+  <img alt="TypeScript" height="30" width="30"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
 
-  <img alt="PHP" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;&nbsp;
+  <img alt="PHP" height="30" width="30"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;
 
-  <img alt="HTML" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img alt="HTML" height="30" width="30"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
 
-  <img alt="CSS" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img alt="CSS" height="30" width="30"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
 
-  <img alt="Python" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img alt="Python" height="30" width="30"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
 
-  <img alt="MySQL" height="40" width="40"
+  <img alt="MySQL" height="30" width="30"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </p>
+
 ##
 <div> 
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
