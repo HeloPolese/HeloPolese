@@ -11,7 +11,6 @@
   <p align="center">
   <img alt="Helo-JS" height="40" width="35"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
   <img alt="Helo-TypeScript" height="40" width="35"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
