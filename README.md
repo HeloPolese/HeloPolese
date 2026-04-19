@@ -1,4 +1,4 @@
-## Heloisa Polese
+## 👩🏻‍💻 Heloisa Polese
 **Desenvolvedora Back End**<br>
 <br>Me chamo Heloisa Colatto Polese, sou natural do Espírito Santo e estudante de Sistemas de Informação para Internet no Instituto Federal de Santa Teresa. Tenho foco em desenvolvimento back-end e sou fluente em inglês. Estou em constante evolução, desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e boas práticas de desenvolvimento.
  
@@ -12,7 +12,7 @@
 
 ##
 
-
+## 🤖Linguagens e tecnologias
   <img alt="JS" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TS" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="PHP" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
