@@ -6,25 +6,35 @@
 
 ##
 -  Sistemas de Informação para Internet - Instituto Federal
+-  Foco em BackEnd
 -  Fluente em inglês
 ##
-  <div style="display: flex; align-items: center; gap: 15px;">
-  <img alt="Helo-JS" height="40" width="35"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Helo-TypeScript" height="40" width="35"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Helo-PHP" height="40" width="35"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img alt="Helo-HTML" height="40" width="35"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Helo-CSS" height="40" width="35"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Helo-Python" height="40" width="35"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Helo-MySQL" height="40" width="35"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></div>
+<p align="center">
+💻 Possuo experiência em JavaScript, TypeScript, PHP e Python, além de conhecimentos em HTML, CSS e MySQL.
+</p>
 
+<p align="center">
+  <img alt="JS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
 
+  <img alt="TypeScript" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+
+  <img alt="PHP" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;&nbsp;
+
+  <img alt="HTML" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+
+  <img alt="CSS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+
+  <img alt="Python" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+
+  <img alt="MySQL" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+</p>
 ##
 <div> 
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
