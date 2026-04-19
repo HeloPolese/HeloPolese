@@ -8,8 +8,7 @@
 -  Sistemas de Informação para Internet - Instituto Federal
 -  Fluente em inglês
 ##
-  
-     <div style="display: flex; align-items: center; gap: 15px;">
+  <div style="display: flex; align-items: center; gap: 15px;">
   <img alt="Helo-JS" height="40" width="35"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Helo-TypeScript" height="40" width="35"
