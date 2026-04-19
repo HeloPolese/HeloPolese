@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&width=900&lines=Crafting+Code%2C+Building+Dreams;Welcome+to+My+GitHub+Universe!" />
 </p>
 
----
+##
 
-## 🎓 Sobre mim
+## Heloisa Colatto Polese
 - Sistemas de Informação para Internet - Instituto Federal  
 - Foco em BackEnd  
 - Fluente em inglês  
 
----
+##
 
 <p align="center">
   <img alt="JS" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
