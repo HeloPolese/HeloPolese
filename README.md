@@ -1,6 +1,6 @@
 ## Heloisa Polese
 **Desenvolvedora Back End**<br>
-Me chamo Heloisa Colatto Polese, sou natural do Espírito Santo e estudante de Sistemas de Informação para Internet no Instituto Federal de Santa Teresa. Tenho foco em desenvolvimento back-end e sou fluente em inglês. Estou em constante evolução, desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e boas práticas de desenvolvimento.
+<br>Me chamo Heloisa Colatto Polese, sou natural do Espírito Santo e estudante de Sistemas de Informação para Internet no Instituto Federal de Santa Teresa. Tenho foco em desenvolvimento back-end e sou fluente em inglês. Estou em constante evolução, desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e boas práticas de desenvolvimento.
  
 
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en">
