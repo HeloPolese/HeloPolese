@@ -9,9 +9,6 @@
 -  Foco em BackEnd
 -  Fluente em inglês
 ##
-<p align="center">
-💻 Possuo experiência em JavaScript, TypeScript, PHP e Python, além de conhecimentos em HTML, CSS e MySQL.
-</p>
 
 <p align="center">
   <img alt="JS" height="30" width="30"
