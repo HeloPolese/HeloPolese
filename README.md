@@ -12,18 +12,29 @@
 
 
   
-<div style="display: inline-block; align-items: center; gap: 15px;">
-  <img alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: flex; align-items: center; gap: 15px;">
   
-  <img alt="Helo-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  
-  <img alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img alt="Helo-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Helo-JS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img alt="Helo-TypeScript" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img alt="Helo-PHP" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+
+  <img alt="Helo-HTML" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img alt="Helo-CSS" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img alt="Helo-Python" height="40" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img alt="Helo-MySQL" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
 </div>
 
   ##
