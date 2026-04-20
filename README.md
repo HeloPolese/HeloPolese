@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-##
+
 
 ## 🤖Linguagens e tecnologias
 
@@ -87,10 +87,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 /><br>
 
-
-
 ## 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
