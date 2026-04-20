@@ -13,6 +13,7 @@
 ##
 
 ## 🤖Linguagens e tecnologias
+
 <img 
     align="left" 
     alt="HTML"
@@ -86,7 +87,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 /><br>
 
-##
+
 
 ## 📊 Estatísticas
 
