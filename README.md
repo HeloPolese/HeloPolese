@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=header&text=Bem-vindo!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
+ficou bom <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=header&text=Bem-vindo!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A132E6&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Heloisa!;Desenvolvedora+Back+End+em+formação.)](https://git.io/typing-svg)
 
@@ -8,8 +8,57 @@
 ✈ Fluente em inglês 
 </div>
 
+<div align="center">
+<br>
+<h2>🚀 Tecnologias e Ferramentas</h2>
+<br>
+<h3> Frontend</h3>
+<br>
+<p>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</p>
 
-### 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
+
+<h3> Backend</h3>
+<br>
+<p>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
+
+<h3> Banco de Dados</h3>
+<br>
+<p>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
+
+<h3> Ferramentas</h3>
+<br>
+<p>
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  &nbsp;&nbsp;
+  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+</p>
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeloPolese&show_icons=true&theme=tokyonight"&hide_border=true/>
@@ -19,37 +68,6 @@
 <div align="center">
   
   ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
-  
-</div>
-
-## 🚀 Tecnologias e Ferramentas
-
-<div align="center">
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### 🗄️ Banco de Dados
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### 🛠️ Ferramentas
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-
-
-</div>
-
-##
 
 
 <p align="center">
@@ -62,6 +80,5 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=footer"/>
-
 
 
