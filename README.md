@@ -1,7 +1,12 @@
-## 👩🏻‍💻 Heloisa Polese
-**Desenvolvedora Back End**<br>
-<br>Me chamo Heloisa Colatto Polese, sou natural do Espírito Santo e estudante de **[Sistemas de Informação para Internet no Instituto Federal de Santa Teresa](https://santateresa.ifes.edu.br/cursos/165-cursos/graduacao/17543-tecnologia-em-sistemas-para-internet)**. Tenho **foco em desenvolvimento back-end e fluente em inglês**. Estou em constante evolução, desenvolvendo projetos práticos para fortalecer minhas habilidades em programação e boas práticas de desenvolvimento.
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=header&text=Bem-vindo!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A132E6&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Mayara!;Desenvolvedora+Full+Stack+em+formação.)](https://git.io/typing-svg)
+
+<div align="center">  
+📚 Desenvolvedora Back End em formação <br>  
+💻 Estudante de Sistemas de Informação para Internet (Instituto Federal de Santa Teresa) <br>
+✈ Fluente em inglês 
+</div>
 
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
