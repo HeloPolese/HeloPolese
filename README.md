@@ -8,6 +8,21 @@
 ✈ Fluente em inglês 
 </div>
 
+
+### 
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=May-mqy&show_icons=true&theme=tokyonight"&hide_border=true/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=May-mqy&layout=compact&langs_count=7&theme=tokyonight"&hide_border=true/>
+</p>
+
+<div align="center">
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
+  
+</div>
+
+
   <a href="https://www.instagram.com/heloisaa.cp/?hl=en">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
