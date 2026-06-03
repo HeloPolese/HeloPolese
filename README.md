@@ -21,7 +21,7 @@
   ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
   
 </div>
-
+<!--
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
@@ -51,7 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
 </div>
-
+-->
 ##
 <p align="center">
   <picture>
