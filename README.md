@@ -99,29 +99,16 @@
 />
 <br>
 
-
-
-## 🤖Linguagens e tecnologias
-
-
-## 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HeloPolese&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloPolese&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/may-mqy/may-mqy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/may-mqy/may-mqy/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/may-mqy/may-mqy/output/github-contribution-grid-snake.svg" width="700" />
+  </picture>
 </p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=footer"/>
 
 
 
