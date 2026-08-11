@@ -57,17 +57,7 @@
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 </p>
 
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeloPolese&show_icons=true&theme=tokyonight"&hide_border=true/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeloPolese&layout=compact&langs_count=7&theme=tokyonight"&hide_border=true/>
-</p>
-
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
 
 
 <p align="center">
