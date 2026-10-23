@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A132E6&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Heloisa!;Desenvolvedora+Back+End+em+formação.)](https://git.io/typing-svg)
 
 <div align="center">  
-📚 Desenvolvedora Back End em formação <br>  
-💻 Estudante de Sistemas de Informação para Internet (Instituto Federal de Santa Teresa) <br>
-✈ Fluente em inglês 
+ Desenvolvedora Back End em formação <br>  
+ Estudante de Sistemas de Informação para Internet (Instituto Federal de Santa Teresa) <br>
+ Fluente em inglês 
 </div>
 
 <div align="center">
 <br>
-<h2>🚀 Tecnologias e Ferramentas</h2>
+<h2> Tecnologias e Ferramentas</h2>
 <br>
 <h3> Frontend</h3>
 <br>
