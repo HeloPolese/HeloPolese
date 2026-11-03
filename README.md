@@ -24,7 +24,7 @@
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F4C2D7&height=2&section=header"/>
+##
 
 <h3> Backend</h3>
 <br>
