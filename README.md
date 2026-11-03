@@ -35,7 +35,7 @@
     <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
+##
 
 <h3> Banco de Dados</h3>
 <br>
@@ -45,7 +45,7 @@
   <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=2&section=header"/>
+##
 
 <h3> Ferramentas</h3>
 <br>
