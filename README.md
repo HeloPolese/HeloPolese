@@ -10,7 +10,7 @@
 
 <div align="center">
 <br>
-<h2>Tecnologias e Ferramentas</h2>
+<h2> Ferramentas</h2>
 <br>
 <h3> Frontend</h3>
 <br>
